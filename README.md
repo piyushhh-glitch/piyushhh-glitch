@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Piyush 👋
 
-<!--
-**piyushhh-glitch/piyushhh-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Enthusiast | Python Developer | DSA Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Piyush-glitch?theme=dark&font=Karma)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushhh-glitch&show_icons=true&theme=tokyonight)
+
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=piyushhh-glitch&theme=tokyonight)
+
+---
+
+## Languages
+
+- Python
+- SQL
+
+---
+
+## Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+## Skills
+
+- Data Structures & Algorithms
+- Machine Learning
+- Problem Solving
+- Object-Oriented Programming
+
+---
+
+## Database
+
+- MySQL
+
+---
+
+## Currently Learning
+
+- Deep Learning
+- MLOps
+- Agentic AI
