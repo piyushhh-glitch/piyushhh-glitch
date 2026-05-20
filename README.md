@@ -10,18 +10,6 @@ AI/ML Enthusiast | Python Developer | DSA Learner
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushhh-glitch&show_icons=true&theme=tokyonight)
-
----
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=piyushhh-glitch&theme=tokyonight)
-
----
-
 ## Languages
 
 - Python
