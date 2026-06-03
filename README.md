@@ -1,6 +1,6 @@
 # Hi, I'm Piyush 👋
 
-AI/ML Enthusiast | Python Developer | DSA Learner
+AI/ML Developer | DSA
 
 ---
 
