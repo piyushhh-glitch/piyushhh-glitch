@@ -1,11 +1,13 @@
 # Hi, I'm Piyush 👋
 
-AI/ML Developer | Data Science | DSA
+ML Developer | Data Science | Agentic AI | DSA
 
 ---
 
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Piyush-glitch?theme=dark&font=Karma)
+
+
 
 ---
 
@@ -36,6 +38,7 @@ AI/ML Developer | Data Science | DSA
 - **Data Analysis** — EDA, data cleaning, and visualization on real-world datasets
 - **SQL Analytics** — Schema design, aggregations, streaming analytics queries
 - **Web Scraping** — Data collection pipelines using Requests & BeautifulSoup
+- **LLMs & Agentic AI** — RAG systems, recommendation engines, and LLM experiments
 - **DSA** — Consistent problem solving on LeetCode
 
 ---
@@ -50,13 +53,15 @@ AI/ML Developer | Data Science | DSA
 
 ---
 
-## 📌 Featured Repository
+## 📌 Repositories
 
-🔗 [Machine Learning Journey](https://github.com/Piyush-glitch/Machine_Learning) — End-to-end ML practice covering algorithms, real datasets, SQL analytics, web scraping, and projects like the CreditWise Loan System.
+🔗 [Machine Learning Journey](https://github.com/piyushhh-glitch/Machine_Learning) — End-to-end ML practice covering supervised & unsupervised algorithms, real datasets, SQL analytics, web scraping, and projects like the CreditWise Loan System.
+
+🔗 [LLMs](https://github.com/piyushhh-glitch/LLMs) — Exploring large language models and hands-on experiments.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush-glitch&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-glitch&layout=compact&theme=dark&hide_border=true)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushhh-glitch&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushhh-glitch&layout=compact&theme=dark&hide_border=true)
