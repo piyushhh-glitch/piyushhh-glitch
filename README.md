@@ -57,11 +57,4 @@ ML Developer | Data Science | Agentic AI | DSA
 
 🔗 [Machine Learning Journey](https://github.com/piyushhh-glitch/Machine_Learning) — End-to-end ML practice covering supervised & unsupervised algorithms, real datasets, SQL analytics, web scraping, and projects like the CreditWise Loan System.
 
-🔗 [LLMs](https://github.com/piyushhh-glitch/LLMs) — Exploring large language models and hands-on experiments.
 
----
-
-## 📈 GitHub Stats
-
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushhh-glitch&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushhh-glitch&layout=compact&theme=dark&hide_border=true)
